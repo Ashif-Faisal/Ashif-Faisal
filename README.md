@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashif-Faisal
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Cloud Technology
-- 💞️ I’m looking to collaborate on Cloud Technology Related Project
+- 💞️ I’m looking to collaborate on any Cloud Technology Related Project
 - 📫 reach me ashif.faisal0@gmail.com 
 
 <!---
